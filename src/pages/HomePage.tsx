@@ -205,12 +205,12 @@ const CtaSection = () => (
         whileInView={{ opacity: 1, scale: 1 }}
         transition={{ duration: 0.5 }}
         viewport={{ once: true, amount: 0.5 }}
-        className="bg-dark-blue text-primary-foreground p-10 md:p-16 rounded-2xl text-center relative overflow-hidden"
+        className="bg-dark-blue text-white p-10 md:p-16 rounded-2xl text-center relative overflow-hidden"
       >
         <div className="absolute -top-10 -right-10 w-32 h-32 bg-primary-orange/20 rounded-full" />
         <div className="absolute -bottom-16 -left-10 w-48 h-48 bg-accent-purple/20 rounded-full" />
         <h2 className="text-4xl md:text-5xl font-display relative">Ready to Ignite Your Promotions?</h2>
-        <p className="mt-4 max-w-xl mx-auto text-lg text-primary-foreground/80 relative">
+        <p className="mt-4 max-w-xl mx-auto text-lg text-white/80 relative">
           Join hundreds of creators turning ideas into beautiful, engaging web pages. Start your free trial today.
         </p>
         <div className="mt-8 relative">
