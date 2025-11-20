@@ -2,7 +2,7 @@
 
 PromoSpark is a visually-driven web application designed to empower users to create stunning, illustrative, and highly engaging promotional web pages with ease. The application provides a set of beautifully designed, pre-built components—including hero sections, feature showcases, pricing tables, and call-to-action blocks—that can be customized to fit any brand. The core philosophy is to merge artistic, hand-drawn aesthetics with modern, clean UI/UX principles, enabling the creation of promotions that are not only effective but also a delight to look at.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/cpamungkas/promospark)
 
 ## ✨ Key Features
 
@@ -76,4 +76,4 @@ This command will build the React application and deploy it along with the serve
 
 Alternatively, you can deploy directly from your GitHub repository with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/cpamungkas/promospark)
