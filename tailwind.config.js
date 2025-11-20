@@ -14,6 +14,7 @@ export default {
   				'sans-serif'
   			],
   			display: [
+          '"Fredericka the Great"',
   				'Cal Sans',
   				'Inter',
   				'system-ui',
@@ -91,6 +92,9 @@ export default {
   			sm: 'calc(var(--radius) - 4px)'
   		},
   		colors: {
+        'primary-orange': 'hsl(22, 100%, 50%)',
+        'dark-blue': 'hsl(220, 26%, 20%)',
+        'accent-purple': 'hsl(271, 76%, 53%)',
   			background: 'hsl(var(--background))',
   			foreground: 'hsl(var(--foreground))',
   			muted: {
